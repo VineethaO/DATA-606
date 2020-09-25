@@ -1,0 +1,80 @@
+Many cities around the globe saw cleaner air after being shut down for COVID-19. But not Chicago.
+By MICHAEL HAWTHORNE
+CHICAGO TRIBUNE |
+MAY 14, 2020 AT 7:08 AM
+
+Weeks of clear skies over Los Angeles, New Delhi, Wuhan and other smoggy, soot-choked cities are signs of how the coronavirus lockdown improved air quality around the planet.
+
+Animated satellite maps and daily reports from monitoring networks back what people see with their own eyes. In city after city, levels of lung-damaging, life-shortening pollution dropped abruptly as COVID-19 restricted daily commuting and grounded national economies to a halt.
+
+
+
+But for reasons that have yet to be fully explained, people in Chicago and its suburbs aren’t breathing dramatically cleaner air during the pandemic.
+
+Average daily soot concentrations in the region declined by only 1% last month compared with April 2019, according to a Chicago Tribune analysis of federal and state monitoring data.
+
+
+Last month on average was dirtier than both April 2018 and 2017, the analysis found.
+
+By contrast, soot levels in New York City dropped 28% last month compared with the same period a year ago. Denver, Detroit, Los Angeles and St. Louis each saw a 16% decline in the tiny particles of pollution during the first full month of shelter-in-place orders.
+
+
+The Illinois Environmental Protection Agency noted in a statement that soot levels fluctuate hour to hour, day to day and year to year based in part on weather conditions. Researchers eventually will be able to identify last month’s sources of soot pollution in Chicago by analyzing the chemical composition of particles collected inside filter-based monitoring equipment.
+
+Likely culprits include buildings, factories and diesel engines that burn coal, oil or natural gas. Diesel emissions in particular remain a chronic problem in Chicago, a racially segregated freight hub where rail yards, warehouses and intermodal facilities are concentrated in low-income, predominantly African American and Latino neighborhoods.
+
+Fewer gasoline-fueled cars might be on expressways and streets these days, but diesel truck and train traffic appears to have remained fairly constant. Modular containers are still exchanged daily between rail cars and semitrailers at more than a dozen intermodal facilities in the city and suburbs.
+
+“We already have roughly double the amount of heavy-duty traffic than other major cities in the country,” said Zac Adelman, executive director of the Lake Michigan Air Directors Consortium, a group of state officials from Illinois, Indiana, Michigan, Ohio, Minnesota and Wisconsin.
+
+“Demand for toilet paper and food and other goods hasn’t dropped off during the shutdown, and in some cases probably has increased,” Adelman said. “We need to dig deeper into the data, but the steady movement of goods could be a reason why Chicago hasn’t seen the air quality improvements other cities have.”
+
+Previous studies support what for now can only be speculated.
+
+During the past decade, scientists at the U.S. EPA have discovered daily spikes of soot pollution near intermodal facilities in Chicago and other cities that far exceed average urban concentrations.
+
+When Norfolk Southern planned a massive expansion of its intermodal yard in the Englewood neighborhood six years ago, an analysis by the nonprofit Environmental Law and Policy Center suggested the project would substantially increase pollution in an area plagued by high rates of asthma. Using an EPA computer model, the group estimated that worrisome levels of soot could spread several blocks beyond the site unless the railroad took more aggressive steps to clean up its diesel equipment.
+
+After several aldermen raised questions, Norfolk Southern upgraded switcher locomotives in the Chicago area and committed to replacing most of its diesel-powered equipment with cleaner models.
+
+New evidence potentially comes from a network of sensors deployed around the city by data scientists at the University of Chicago.
+
+A sensor that measures soot is located in the Ashburn neighborhood on the Southwest Side, less than a mile from one of the region’s busiest intermodal facilities — a sprawling CSX complex in suburban Bedford Park.
+
+Since Gov. J.B. Pritzker’s stay-at-home order took effect March 21, average daily soot concentrations recorded by the sensor are 29% higher than levels of pollution detected during the previous two months, the data scientists found.
+
+The U. of C. team plans to install more of the pollution sensors around the city, giving residents more information about what they are breathing close to home rather than the regionwide pollution tracked by the EPA.
+
+Soot pollution already is an environmental justice problem in Chicago. Community groups have been pushing the city for years to consider the health dangers when evaluating plans for new freight operations.
+
+A 2014 Tribune analysis found that nearly 340,000 people, including 38,000 children younger than 7, live within a half-mile of one of the region’s intermodal terminals. More than 80% are Latino or African American.
+
+Diesel locomotives and trucks are regulated differently than steel mills, factories and power plants. New or refurbished engines must be cleaner, but older, dirtier diesel equipment can legally keep operating.
+
+As a result, certain neighborhoods remain pollution hot spots even when air quality in the broader metropolitan area is considered relatively clean.
+
+In Little Village, residents are fighting a proposed warehouse that would bring scores of additional diesel trucks into the working class, predominantly Latino neighborhood.
+
+Kim Wasserman, executive director of the Little Village Environmental Justice Organization, noted the trucks would maneuver and idle on the site of a former coal-fired power plant that for decades was one of the city’s largest industrial emitters of soot.
+
+“There are something like 45 warehouses now within 2 miles of us,” Wasserman said this week. “The city keeps approving new ones without any regard for what they are doing to air quality in our neighborhood and others.”
+
+Unlike the vivid dust cloud created by the recent implosion of a smokestack at the former coal plant, a type of soot known as PM2.5 is so small thousands of particles could fit on the period at the end of this sentence.
+
+A growing body of research shows the fine particles can lodge deeply in the lungs and penetrate the bloodstream. Breathing the pollution can trigger asthma attacks and cause heart problems.
+
+Last year public health experts at the U.S. EPA reaffirmed that PM2.5 pollution is responsible for thousands of premature deaths annually. Requiring more rigorous control of industrial emissions could save thousands of lives, the EPA scientists concluded.
+
+There also is an emerging scientific link between soot and COVID-19 death rates.
+
+New research from a team of Harvard data scientists found that a person living for decades in a county with high levels of soot is 8% more likely to die from the coronavirus than someone in an area with one microgram less of the pollution per cubic meter of air.
+
+“When you think about how fine particulate matter kills you and how COVID-19 kills you, you realize that more soot in the air is like throwing gasoline on a fire,” said the study’s principal investigator, Francesca Dominici, a Harvard biostatistics professor who spent the past two decades perfecting a database of long-term soot concentrations across the nation.
+
+As part of a mandatory five-year review, EPA scientists determined that tightening federal soot standards — from 12 to 9 micrograms of PM2.5 pollution per cubic meter of air — would lower annual deaths by 27%, or 12,150 people a year.
+
+But despite the findings from the agency’s career staff, the Trump administration last month scuttled a proposed tightening of federal standards for industrial emissions.
+
+The administration ended up siding with industry groups that for decades have attacked scientific conclusions about soot, including the Alliance of Automobile Manufacturers, the American Petroleum Institute, the National Mining Association and the U.S. Chamber of Commerce.
+
+“We believe the current standard is protective of public health,” EPA Administrator Andrew Wheeler told reporters during an April 14 conference call.“Through the five-year review process we’ve identified a lot of uncertainties. Through those uncertainties we’ve identified that the current standard does not need to be changed.”
