@@ -1,0 +1,74 @@
+Colorado joins lawsuit challenging EPA’s rollback of methane regulations
+Federal rule was based on 2014 Colorado state-level regulations
+
+By JUDITH KOHLER | jkohler@denverpost.com | The Denver Post
+PUBLISHED: September 14, 2020 at 3:03 p.m. | UPDATED: September 14, 2020 at 3:39 p.m.
+
+Colorado has joined a coalition of states and cities in a lawsuit challenging the Environmental Protection Agency’s rolling back of a federal rule intended to limit emissions of methane and other pollutants from new oil and gas operations.
+
+Attorney General Phil Weiser said in a statement Monday that the state is joining the lawsuit because reversing the Obama-era rule “will accelerate the impacts of climate change and threaten public health.”
+
+The Colorado Department of Public Health and the Environment supports Weiser’s decision, said John Putnam, the agency’s director of environmental programs.
+
+In August, the  EPA formally loosened the methane regulations by removing transmission and storage facilities from the rule and loosening requirements for monitoring emissions and detecting and repairing leaks. The Trump administration had criticized the regulations as costly and needlessly burdensome.
+
+However, proponents of strong regulations note that methane is a potent greenhouse gas, trapping than 80 times the heat than carbon dioxide in the short term. The federal methane regulation was modeled on Colorado’s regulations approved in 2014. Colorado was the first in the nation with state-level rules.
+
+Putnam said Colorado will  continue to enforce its methane rules and reduce emissions, but the EPA’s rolling back of federal regulations means the state will be in the path of emissions from outside of Colorado.
+
+“This puts the health of Coloradans at risk and exacerbates the ongoing climate crisis,” Putnam said.
+
+Emissions from oil and gas production along Colorado’s Front Range and on the Western Slope are central to health concerns aired by people near drilling sites. Potential health and environmental impacts are being debated as state agencies write new oil and gas regulations to implement a 2019 law  mandating an overhaul of state rules.
+
+Protect your privacy and the environment while upgrading your gear
+Tossing your old stuff away can be bad for your identity and for the enviroment
+
+By THE NEW YORK TIMES NEWS SERVICE SYNDICATE | wordpress@medianewsgroup.com |
+September 26, 2020 at 6:00 a.m.
+
+Taking better care of your tech gear can help make it last longer, but sometimes you just need to upgrade. Even if your phone, tablet or computer hasn’t suffered a fatal flop, you may find it doesn’t fit your work-from-home needs, or you plan to pass it down to a family member who needs it for remote learning. Or, be honest: You really want the fall season’s latest, greatest phone.
+
+Whatever the reason for the new purchase, simply tossing your old hardware in the junk drawer or trash can be bad from a privacy standpoint and for the environment. When upgrade time comes, here are some security and eco-friendly tips for when your old equipment goes on without you.
+
+Prepare for departure
+
+To get your old device ready to leave your possession, start by backing up its contents to an external drive or secure cloud server.
+
+Next, look for a program to automatically move your data from the backup or old device. Apple’s support site has guides for transferring the contents of Mac computers and iOS gadgets, along with advice for giving away a Mac or one of Apple’s phones or tablets.
+
+Outside the Apple ecosystem, Laplink’s PC transfer software transplants data between old and new machines. Google’s support site has instructions for moving data to a new Android phone or transferring it to a Pixel smartphone. Other phone makers have their own solutions, like Samsung’s Smart Switch for its Galaxy products.
+
+Now, de-authorize your old device from any online subscriptions for music, movies, software and cloud services. Make sure you have any serial numbers or installation programs needed to reinstall applications on new hardware. (Unless you installed an application from a disc or drive and have the paperwork, serial numbers are typically emailed when you buy computer software online and are still needed even if you download the program again on a new machine.)
+
+Finally, unpair any Bluetooth accessories before you sign out of your user accounts on the device for good.
+
+Erase your past
+
+
+After you’ve transferred your data to its new home, wipe the information from the old device. On an iPhone or iPad, go from Settings to General and then Reset; select the Erase All Content and Settings option. Wiping an Android phone varies by hardware and software versions, but try going to System, then Advanced and Reset Options.
+
+Computers should also be wiped of data before they leave the house. Apple’s support site has guides to erasing a Mac and reinstalling its operating system. PC users have several disk-deleting programs available, including White Canyon’s WipeDrive Home and Eraser. Check with the computer’s manufacturer for steps to reinstalling the operating system; using another PC with an external drive to download and reinstall Windows 10 or Ubuntu Linux may be one method.
+
+Pass down a device
+
+The recipient of your used computer or mobile gadget will need to set it up and install any new applications. If you plan to give your old smartphone to someone in the family, check with your wireless carrier about adding a new line and other necessary equipment (like a SIM card) to get it up and running.
+
+Even without cellular service, Wi-Fi-enabled phones and tablets can still get online by connecting to a wireless network. And if you’re bequeathing a phone or tablet to a child, Apple and Google both include parental controls in their software.
+
+Trade in (and up)
+
+If money is tight, swapping your old gadget for credit helps pay for the new one. Several hardware manufacturers — Amazon, Apple, Dell, Google, Samsung and others — have their own trade-in programs.
+
+Best Buy has a trade-in program in exchange for gift cards or merchandise discounts. Third-party companies like Buy Back World, Gazelle and It’s Worth More also convert old electronics into cash.
+
+Give to a good cause
+
+If your old equipment is in decent shape, donating it to charity is another option. (You may be able to deduct the contribution from your taxes with a receipt from a recognized charity.)
+
+If no local charities, schools or libraries accept hardware donations, search for a legitimate organization like the National Cristina Foundation or Cell Phones for Soldiers. The sites for Charity Navigator and the Federal Trade Commission have information on donating wisely.
+
+Recycle responsibly
+
+Even if your old gear is dead, you can recycle it to recover valuable materials and keep them out of a landfill. Some municipalities like New York City have regulations concerning “electronic waste,” so check your local government’s website. The Environmental Protection Agency’s site also has a list of electronics recycling options.
+
+Some manufacturers support “takeback” programs that accept products mailed in for recycling; Amazon, Apple and Google are among them. Best Buy and Staples stores also accept all kinds of electronics for recycling. If pandemic precautions are temporarily impeding collection, set a reminder on your new device to check back.

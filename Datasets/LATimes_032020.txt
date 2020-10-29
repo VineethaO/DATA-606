@@ -1,0 +1,180 @@
+Environmental disaster or key to a clean energy future? A new twist on hydropower
+
+The Los Angeles Department of Water and Power uses Castaic Lake, just off Interstate 5 along the Grapevine north of Los Angeles, as the lower reservoir in a "pumped storage" system that also includes nearby Pyramid Lake.
+
+By SAMMY ROTHSTAFF WRITER 
+MARCH 5, 2020 6 AM
+
+EAGLE MOUNTAIN, Calif. —  Steve Lowe gazed into a gaping pit in the heart of the California desert, careful not to let the blistering wind send him toppling over the edge.
+The pit was a bustling iron mine once, churning out ore that was shipped by rail to a nearby Kaiser Steel plant. When steel manufacturing declined, Los Angeles County tried to turn the abandoned mine into a massive landfill. Conservationists hope the area will someday become part of Joshua Tree National Park, which surrounds it on three sides.
+
+Lowe has a radically different vision.
+
+With backing from NextEra Energy — the world’s largest operator of solar and wind farms — he’s working to fill two mining pits with billions of gallons of water, creating a gigantic “pumped storage” plant that he says would help California get more of its power from renewable sources, and less from fossil fuels.
+
+Lowe’s project, known as Eagle Mountain, is no outlier. Across the country, companies are scrambling to build similar facilities to complement solar and wind farms.
+
+Those plans are brushing up against concerns from environmentalists, who love solar and wind but usually oppose building new dams, a feature of many pumped storage projects. Critics have said some of the proposed facilities would flood scenic canyons, interrupt free-flowing stretches of river and harm fish and wildlife.
+
+At Eagle Mountain, one of several abandoned mining pits would be filled with water, pumped from beneath the ground. When nearby solar farms flood the power grid with cheap electricity, Lowe’s company would use that energy — which might otherwise go to waste — to pump water uphill, to a higher pit.
+
+When there’s not enough solar power on the grid — after sundown, or perhaps after several days of cloudy weather — the water would be allowed to flow back down to the lower pit by gravity, passing through an underground powerhouse and generating electricity.
+
+“It’s such a natural solution for the integration of solar,” Lowe said.
+
+The Eagle Mountain plant wouldn’t interrupt any rivers or destroy a pristine landscape. But environmentalists say the $2.5-billion facility would pull too much water from the ground in one of the driest parts of California, and prolong a history of industrialization just a few miles from one of America’s most visited national parks.
+
+Lowe rejects those arguments, saying his proposal has survived round after round of environmental review and would only drain a tiny fraction of the underground aquifer.
+
+The project’s fate may hinge on a question with no easy answer: How much environmental sacrifice is acceptable — or even necessary — in the fight against climate change?
+
+A new twist on an old technology
+Pumped storage plants have been used commercially for decades, with about 40 facilities operating in the United States today. Most of them were built as companions to nuclear power plants, soaking up low-cost energy during the night and then generating electricity during daytime or evening hours, when demand — and prices — are higher.
+
+Now renewable energy is scrambling the dynamics of the power grid. Pumped storage plants are being operated in ways they weren’t designed for, cycling up and down throughout the day to match the vagaries of the wind and sun. Developers see a need for a new kind of pumped storage, designed for 21st-century needs.
+
+The Federal Energy Regulatory Commission has received or approved applications for at least 51 gigawatts of pumped storage since 2014 — more than twice as much capacity as there is in the United States today.
+
+The proposals have included a series of controversial new dams in California’s eastern Sierra, since canceled by its developer; a plan to build two reservoirs outside Las Vegas and fill them with Colorado River water; and a Montana facility, supported by environmental groups, that would tap into power lines currently used by a coal plant.
+
+About two-thirds of the proposed capacity is in the West, a geographic slant driven in part by California’s aggressive clean energy goals and huge power demands.
+
+“Things have really been ramping up in the last couple of years, especially the last year,” said Matthew Shapiro, chief executive of Gridflex Energy, which has proposed nine pumped storage projects, including one in Southern California’s Kern County. “You have so many more utilities and states going with low-carbon goals and high-renewable plans.”
+
+Lawmakers in Maine, Nevada, New Mexico, New York and Washington passed laws last year setting targets of 100% clean energy by midcentury, building on previous 100% laws in California and Hawaii. There’s been a similar flurry of commitments among utilities outside those states, with major power providers based in Arizona, Michigan, Minnesota, North Carolina and Virginia promising to achieve net-zero carbon emissions by 2050 or sooner.
+
+Wind and solar power are also expanding quickly in states without mandates, driven by falling costs.
+
+
+As the country transitions away from fossil fuels, the key challenge will be ensuring there’s enough electricity on the grid when the sun isn’t shining and the wind isn’t blowing.
+
+Right now, California replaces much of the solar generation it loses each evening by burning natural gas, which produces less carbon pollution than coal but is still a planet-warming fossil fuel. Pumped storage, advocates say, is one of several technologies that might fill the role played by gas plants.
+
+Pumped storage plants are more expensive to build than lithium-ion batteries, whose costs have fallen 87% over the last decade. But batteries typically store only a few hours’ worth of electricity. They won’t be much help during multi-day periods when the sun disappears behind clouds and the winds weaken.
+
+Pumped storage facilities can generate electricity at full capacity for much longer — 18 hours, in Eagle Mountain’s case.
+
+“If we’re going to start reducing our reliance on gas resources in our fleet, we need something that has that longer-duration capability,” said Mark Rothleder, a vice president at the California Independent System Operator, which oversees the power grid for most of the state.
+
+Rothelder pointed to a recent experience on the Hawaiian island of Kauai. In July 2019, a combination of grid problems and poor weather — including a failure at the island’s largest gas plant, maintenance at hydropower facilities and several overcast days that limited solar production — forced the local utility to implement rolling power outages.
+
+“They didn’t have the longer-duration storage,” Rothleder said.
+
+Until recently, California regulators hadn’t projected a need for more pumped storage in the near future. That changed last month, when the Public Utilities Commission released a planning document that contemplated nearly 1,000 megawatts of new pumped storage — or other long-duration energy-banking technologies — as soon as 2026.
+
+Your support helps us deliver the news that matters most. Subscribe to the Los Angeles Times.
+
+Fighting over an old iron mine
+It was Lowe’s father who first dreamed of using the abandoned Eagle Mountain mine to generate hydroelectric power. In the early 1990s, Art Lowe was being flown over the California desert by an engineer friend. Looking down at Eagle Mountain, the friend commented that the massive pits would be perfect for pumped storage.
+
+Art Lowe ran with the idea. He died in 2009, but his son Steve took up the mantle, obtaining a federal license for a 1,300-megawatt project and later selling a majority stake in the company his dad started, Eagle Crest Energy Co., to NextEra. The Florida-based energy giant owns four nearby solar farms in the desert east of Palm Springs, along Interstate 10.
+
+Like his father, Lowe thinks the site is perfect for pumped storage. The reservoirs are already built, reducing construction costs by hundreds of millions of dollars. The landscape is highly disturbed from decades of industrial mining.
+
+Alice Karl, a desert tortoise expert and longtime biological consultant for Eagle Crest, put it this way: “This seems like a good use of two big holes in the ground.”
+
+
+They say Eagle Crest’s plan to pump nearly 8 billion gallons of groundwater into its reservoirs, plus another half-billion gallons every year to replace water lost to evaporation, could harm plants and wildlife that depend on groundwater — a claim disputed by the developer. Critics also worry the project could make it harder for bighorn sheep to migrate to and from mountain ranges in Joshua Tree National Park, and could attract ravens that prey on young desert tortoises.
+
+The debate over groundwater pumping has been especially fierce given the project’s location in the hot, dry Colorado Desert, as well as the ongoing climate crisis that is fueling more extreme droughts in California and across the West.
+
+Joshua Tree officials say they agree with Eagle Crest that springs in the national park, which serve as oases for wildlife, are fed by shallow groundwater, not the deeper Chuckwalla Valley aquifer that Eagle Crest plans to tap. But conservationists are skeptical.
+
+Chris Clarke, a program manager for the National Parks Conservation Assn., pointed to recent research in another part of the California desert, where Cadiz Inc. hopes to pump groundwater and sell it to cities. A study funded by Cadiz opponents found that a critical surface-level spring was in “hydraulic communication” with the underground aquifer.
+
+In the Eagle Mountain area, “there really isn’t a thorough analysis of the actual hydrology of the region,” Clarke said.
+
+Battles over energy projects are nothing new in the desert southwest, home to some of the country’s largest and most spectacular intact natural landscapes. Proposals for solar and wind farms have forced environmental groups to determine which projects are worth supporting as bulwarks against climate change and which would do too much harm.
+
+The Eagle Mountain lands were originally part of Joshua Tree National Monument, the predecessor to today’s national park. But Congress removed them in 1950 to clear the way for large-scale iron mining. Many conservationists feel the lands should have been returned to the park when mining stopped.
+
+The debate has migrated to Sacramento, where NextEra backed legislation in 2018 and 2019 that appeared narrowly targeted at helping Eagle Crest sign up a buyer for the electricity its project would generate. NextEra argued to lawmakers that California’s heavily regulated energy market may not be equipped to get a project this big financed and built.
+
+Critics countered that if the project were as useful and cost-effective as NextEra claimed, the company wouldn’t have any trouble finding a buyer.
+
+Both bills failed to advance. But conservationists fear another attempt is coming. They’re watching Assembly Bill 2255, which was introduced by Assemblywoman Susan Eggman (D-Stockton), but has yet to be filled out with detailed language.
+
+Asked whether the legislation will be a vehicle to support Eagle Mountain, Eggman’s chief of staff, David Stammerjohan, said the lawmaker is working to craft “a technology-neutral bill that focuses on the need for long-duration storage, that is not project-specific.”
+
+Pumped storage everywhere
+Across the country, projects like Eagle Mountain are sparking debate.
+
+Last spring, the Federal Energy Regulatory Commission denied a preliminary permit for a facility that would have been built partly within West Virginia’s Monongahela National Forest. The proposal faced criticism from groups including Friends of Blackwater, which circulated a petition saying the project would “dam a tier 3 trout stream, impact sensitive species, and disturb the iconic Blackwater Canyon.”
+
+Another controversial project is in Arizona, where Pumped Hydro Storage LLC has proposed damming the Little Colorado River just outside Grand Canyon National Park. The Grand Canyon Trust, a private nonprofit, says the project would flood a sacred Hopi tribal site, threaten the endangered humpback chub and industrialize a remote hiking trail.
+
+Pumped Hydro Storage co-founder Steve Irwin said the company is working on a revamped proposal that involves damming a side canyon of the Little Colorado, rather than the river itself. That would make the company’s facility a “closed loop” plant that doesn’t interrupt natural waterways, although it would still disrupt a relatively undisturbed landscape.
+
+
+Environmentalists point to other technologies that might keep the lights on during the absence of sunlight and wind.
+
+Several California utilities signed contracts earlier this year for geothermal power plants, which can generate climate-friendly electricity around the clock. Los Angeles is investigating whether it can use underground salt caverns in Utah to bank clean energy in the form of compressed air or renewable hydrogen. The U.S. Navy recently eased its opposition to floating wind farms off California’s Central Coast, potentially helping the state access offshore winds that blow more consistently than onshore gusts.
+
+The Nature Conservancy, an environmental nonprofit, released a report last year examining how California might satisfy its appetite for clean energy without destroying sensitive lands. The report detailed 61 scenarios for meeting the state’s long-term goal of reducing planet-warming emissions 80% by 2050.
+
+Pumped storage “contributes a relatively small amount in those scenarios, and it’s not present in all scenarios,” said Erica Brand, director of the Nature Conservancy’s California energy program.
+
+And to the extent new pumped storage is needed, existing dams could fill at least some of the need. The Los Angeles Department of Water and Power is working on a pumped storage project at Lake Mead outside Las Vegas, and the San Diego County Water Authority hopes to utilize San Vicente Reservoir for a similar project.
+
+Pumped storage “has a role to play. But when it comes to specific projects, it’s all about impacts,” Brand said.
+
+Joshua Tree National Park officials once hoped to see the Eagle Mountain lands returned to the park. Lately, though, they’re more focused on limiting the potential harm to natural ecosystems. They’re working with Eagle Crest on an agreement to study the genetics and health of bighorn sheep that move through the company’s lands.
+
+Figuring out how to handle Eagle Mountain hasn’t been easy for David Smith, Joshua Tree’s superintendent. He’s worried about what might happen to bighorn sheep and desert tortoises if the facility is built. But he’s also worried about climate change, which threatens to wipe out Joshua Tree’s namesake species across most of the park.
+
+Fires are also taking a toll on Joshua trees. Smith said those blazes are fueled by invasive grasses, whose growth is supported by smog blowing in from Los Angeles. That smog comes from the same cars, trucks and power plants that spew planet-warming gases.
+
+If a project like Eagle Mountain can help renewable energy sources replace fossil fuels, Smith can see the merit in it.
+
+“The idea of depleting a finite resource, even one we’re not using, goes against what my job is as a park manager,” Smith said, referring to the groundwater that Eagle Crest plans to pump. “But at the same time, I’m seeing a real threat because of fires, and because of climate change.”
+
+“It’s really, really tough,” he said.
+
+Medical waste industry braces for flood of virus-contaminated trash
+
+By LOUIS SAHAGUNSTAFF WRITER 
+MARCH 30, 2020 9:25 AM
+
+For about two weeks now, red bags of medical waste laden with the coronavirus have been flowing from Southern California hospitals to a squat white building in the city of Paramount, where they are tossed into an autoclave and scorched with pressurized steam.
+
+The novel coronavirus, or SARS-CoV-2, is essentially a string of genetic material encased in a fragile, fatty membrane, and it’s no match for an extended bath in 300-degree steam and 50 pounds per square inch of pressure.
+
+“It kills all the bugs in the garbage,” said Bob Shaw, president of Medical Waste Services. “Then it’s sent to the landfill.”
+
+Shaw’s is among 19 facilities that use enormous steam autoclaves to treat California’s medical debris. So far, they have had little problem handling waste generated in the battle against the coronavirus.
+
+But that could change. If COVID-19 cases continue to spread exponentially, networks of hospitals, waste haulers and treatment centers could be overburdened by a surge of regulated medical waste — masks, gloves, booties, bed linens, cups, plates, towels, packaging and disposable medical equipment. Such a flood of medical waste, industry leaders say, could result in infections among their workers.
+
+Now, preparing for the worst, the medical waste industry is requesting relaxation of state and federal rules governing infectious biological waste, including its collection, records, transportation, treatment and disposal.
+
+“Right now, no one is kicking and screaming for help because they’re falling behind,” said Anne Germain, vice president of technical and regulatory affairs for the National Waste and Recycling Assn., which represents more than 700 firms nationwide. “But we have to be ready to respond to an increase in medical waste generated by the pandemic.”
+
+In a world upended by the novel coronavirus, the association is asking for extensions on renewals of expired commercial driver’s licenses, greater leeway on the amount of medical waste that can be stored at treatment facilities and more flexible “hours of service” rules to provide more time to meet their customers’ demands.
+
+Then there’s the growing problem of hospital staffers unwilling to sign the manifests of haulers of regulated medical waste for fear of contaminating a pen and paper or digital notepad with the highly infectious virus.
+
+“If hospitals aren’t going to sign manifests,” Germain said, “we need a formal exemption from regulations requiring their signature on those documents.”
+
+That kind of flexibility is critical to “ensuring that the medical waste industry can continue to operate and deal with the potentially elevated volumes of waste that may be generated by this pandemic,” said Elise Paeffgen, a partner with the law firm Alston & Bird, who specializes in healthcare and environmental regulatory issues.
+
+The Centers for Disease Control and Prevention, the National Institute for Occupational Safety and Health, and the U.S. Department of Transportation have not elevated the level of threat posed by the coronavirus pandemic.
+
+Federal authorities are treating the coronavirus as a Category B threat: a sometimes-fatal respiratory disease like SARS, which spread globally in the early 2000s.
+
+An example of Category A is Ebola, an extremely infectious substance capable of causing permanent disability or death when exposure occurs.
+
+As of Sunday, the pandemic had killed 2,467 people in the United States, which had 140,886 diagnosed cases of coronavirus.
+
+The Centers for Disease Control and Prevention says protective gear and equipment potentially infected with coronavirus can be handled like most regulated medical wastes along the chain of custody from hospitals to landfills.
+
+Contaminated protective gear and disposable equipment are tossed into red plastic bags with a “biohazard” label.
+
+Local medical waste management companies expressed confidence in their ability to handle a significant increase in coronavirus-related waste, if necessary.
+
+“Our network can meet current demands,” said Selin Hoboy, vice president of government affairs at Stericycle, one of the largest medical waste companies in the U.S.
+
+She said, however, that “ongoing communication is critical during this unprecedented and ever-changing time.”
+
+Shaw, who has worked in the regulated medical waste industry for three decades, agrees —up to a point.
+
+“If a volume spike or crisis would suddenly appear, I am very comfortable that state health officials would quickly help our industry find a safe solution for all stakeholders,” he said. “But I don’t think we’re going to need the help.”
